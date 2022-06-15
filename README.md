@@ -18,7 +18,7 @@ My's interest lies in careers that strike a balance between sustainable agricult
 🔭   I’m currently learning web developer languages of `HTML`, `CSS`, and `Javascript`
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" LinkedLn/>
+<a href="https://www.linkedin.com/in/helen-glover"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" LinkedIn/></a>
 
 **Note: Github in development**
   
